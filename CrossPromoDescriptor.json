@@ -1,0 +1,24 @@
+{
+    "IsEnabled": true,
+
+    "FrameColor": "#0d8aff",
+    "NewTextColor": "#ffffff",
+
+    "PlayBtnColor": "#05becf",
+    "PlayBtnTextColor": "#ffffff",
+
+    "App-Android":  
+        {
+            "AppTitle": "10 SOLO",
+            "IconUrl": "https://github.com/zfplay/Promotion/blob/master/cb1.jpg?raw=1",
+            "Id": ""
+        }
+    ,
+
+    "App-iOS": 
+        {
+            "AppTitle": "10 SOLO",
+            "IconUrl": "https://github.com/zfplay/Promotion/blob/master/cb1.jpg?raw=1",
+            "Id": "1066584280"
+        }
+}
