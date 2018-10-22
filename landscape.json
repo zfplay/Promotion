@@ -1,15 +1,15 @@
 {
     "IsEnabled": true,
 
-    "FrameColor": "#0d8aff",
-    "NewTextColor": "#ffffff",
+    "FrameColor": "#ffffff",
+    "NewTextColor": "#000000",
 
-    "PlayBtnColor": "#05becf",
-    "PlayBtnTextColor": "#ffffff",
+    "PlayBtnColor": "#ffffff",
+    "PlayBtnTextColor": "#000000",
 
     "App-Android":  
         {
-            "AppTitle": "10 SOLO",
+            "AppTitle": "44 Chairs",
             "IconUrl": "https://github.com/zfplay/Promotion/blob/master/landscapead.jpg?raw=1",
             "Id": "http://blog.sina.com.cn/u/5072911479"
         }
@@ -17,8 +17,8 @@
 
     "App-iOS": 
         {
-            "AppTitle": "10 SOLO",
+            "AppTitle": "44 Chairs",
             "IconUrl": "https://github.com/zfplay/Promotion/blob/master/landscapead.jpg?raw=1",
-            "Id": "1066584280"
+            "Id": "1107509958"
         }
 }
